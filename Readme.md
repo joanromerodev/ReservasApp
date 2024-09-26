@@ -64,4 +64,4 @@ const port = { puertoDisponible }; //Nuevo
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/joanromerodev/ReservasApp/blob/main/LICENSE)
